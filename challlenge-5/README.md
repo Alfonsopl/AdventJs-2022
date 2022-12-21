@@ -1,11 +1,5 @@
 #Instrucciones
 
-```js
-    fitsInOneBox([
-      { l: 1, w: 1, h: 1 },
-      { l: 2, w: 2, h: 2 }
-    ]) // true
-```
 Para no cansar a los renos, Papá Noel quiere dejar el máximo número de regalos haciendo el menor número posible de viajes.
 
 Tiene un array de ciudades donde cada elemento es el número de regalos que puede dejar allí. `[12, 3, 11, 5, 7]`. Por otro lado, el límite de regalos que caben en su saco. Y, finalmente, el número de ciudades máximo que sus renos pueden visitar.
